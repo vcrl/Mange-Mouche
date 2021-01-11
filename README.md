@@ -1,2 +1,2 @@
-# Mange-Mouche
-Un jeu réalisé en Python
+# Pygame Snake
+Made with Python & Pygame
